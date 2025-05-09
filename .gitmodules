@@ -1,3 +1,6 @@
 [submodule "kotlin"]
 	path = kotlin
 	url = https://github.com/FranciscoSalesCarvalho/kotlin.git
+[submodule "native"]
+	path = native
+	url = https://github.com/FranciscoSalesCarvalho/native.git
